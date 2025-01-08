@@ -1,1 +1,1 @@
-# Algoritmo-y-Programaci-n---UNIMET
+# Algoritmo-y-Programacion---UNIMET
